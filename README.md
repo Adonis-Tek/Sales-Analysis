@@ -106,6 +106,3 @@ sales['TotalPrice'] = sales['Quantity'] * sales['UnitPrice']
 
 Patrick Anieke Chibuzor
 (Solutions Architect)
-
-📜 License
-This project is licensed under the MIT License. 
